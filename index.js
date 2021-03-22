@@ -73,24 +73,24 @@ const apikeyG = '8b3591aa6c8d36a033b4d8dd46b68834';
 const ZeksApi = 'apivinz';
 const zeksApi = 'apivinz';
 const nomd = 'markinhus';
-const line = '〲';
-const line2 = '〲┴┬➣';
+const line = '║';
+const line2 = '╠➥';
 const line7 = '*Em breve*';
-const line3 = '〲──────⊣〘 ';
-const line4 = '〙';
+const line3 = '╠══✪〘';
+const line4 = '〙✪══';
 const line5 = 'MARKOS BOT';
 const line6 = 'APIS DO MARKOS';
-const line8 = '〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶';
-const line9 = '〲┴┬➣';
+const line8 = '╠═══════════════';
+const line9 = '╠══';
 const line10 = 'EDITS »';
 const line11 = '𝐃𝐎𝐍𝐎:';
 const line12 = '*wa.me/+559488088531*';
 const line13 = '𝐒𝐓𝐀𝐓𝐔𝐒: ON';
 const line14 = '*4.0*';
-const line15 = '〲─────⊣〘 ';
+const line15 = '╔══✪〘 ';
 const line16 = '*MENU*';
 const root = 'Markos Bot';
-const line17 = '*none*';
+const line17 = '*https://bit.ly/2NSGWqE*';
 const tobzkey = 'apitobz';
 const BotName = 'markosbot'; 
 const instagram = 'http://www.instagram.com/'; 
@@ -115,7 +115,7 @@ const {
     UserLimitz,
     CeerTod
 } = ngonsol            
-prefix = '!','.','#'
+prefix = '.','!','#'
 blocked = []
 limitawal = '999999999'
 cr = '*Markos*'
@@ -730,7 +730,7 @@ const get = require('got')
 			reply("é bot seu analfabeto")
 	}
 	
-				if (messagesC.includes("amor")){
+				if (messagesC.includes("arsmorub")){
 			client.updatePresence(from, Presence.composing)
 			reply(" ")
 	}
